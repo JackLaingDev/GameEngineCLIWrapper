@@ -1,0 +1,3 @@
+[submodule "external/gameEngine"]
+	path = external/gameEngine
+	url = https://github.com/JackLaingDev/gameEngine
