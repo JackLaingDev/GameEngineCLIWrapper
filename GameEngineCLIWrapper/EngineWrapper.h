@@ -1,7 +1,11 @@
 #pragma once
 
 // Include your C++ engine headers
+#include <Windows.h>
+
 #include "../external/gameEngine/gameEngine/GameEngine.h"
+#include "SFML/Window.hpp"
+#include "SFML/Graphics.hpp"
 
 using namespace System;
 
